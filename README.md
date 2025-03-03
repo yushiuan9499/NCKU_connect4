@@ -1,0 +1,2 @@
+# NCKU_connect4
+保存每一屆成大電機系期中考connect4的作答內容
